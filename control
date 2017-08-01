@@ -1,0 +1,8 @@
+Package: com.imokhles.twbenhancermac
+Name: TWBEnhancerMac
+Version: 1.1
+Architecture: darwin-amd64
+Description: real enhancements for Tweetbot on mac
+Maintainer: iMokhles <mokhleshussien@aol.com>
+Author: iMokhles <mokhleshussien@aol.com>
+Section: Tweaks
